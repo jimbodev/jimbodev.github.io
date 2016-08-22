@@ -1,0 +1,15 @@
+Package: com.jimbodev.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jimbodev <reponame@example.com>
+Filename: ./debs/com.jimbodev.icons_1.0_iphoneos-arm.deb
+Size: 16292
+MD5sum: 0f7405bf51bbd795fe0e510ce41d8b2a
+SHA1: 09472405f7ac91b3f9c9fb7558941955944c4dfc
+SHA256: 88f616206df604272d5eccab0f9508e4bae2ad6d9ce275435f1510bb0806fec8
+Section: Tweaks
+Description: Adds Icon Images
+Author: jimbodev
+Depiction: https://github.com/jimbodev/jimbodev.github.io
+Name: icons
+

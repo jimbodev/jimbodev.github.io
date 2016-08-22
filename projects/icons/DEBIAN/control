@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: jimbodev
+Depiction: https://github.com/jimbodev/jimbodev.github.io
+Description: Adds Icon Images
+Maintainer: jimbodev <reponame@example.com>
+Name: icons
+Package: com.jimbodev.icons
+Section: Tweaks
+Version: 1.0
